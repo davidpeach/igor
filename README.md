@@ -1,0 +1,2 @@
+# igor
+Zettelkasten generator script
